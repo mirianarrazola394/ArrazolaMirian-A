@@ -15,7 +15,7 @@ html{
 /* Dark-light theme colors */
 
 .dark-mode--theme{
-    background:rgb(11, 14, 17);
+    background:rgb(14, 11, 17);
 }
 
 .dark-mode--theme .navigation{
@@ -23,18 +23,18 @@ html{
 }
 
 .dark-mode--theme .navigation__mega-menu{
-    background:#1E2329;
+    background:#1e2920;
 }
 .dark-mode--theme .navigation__mega-menu--item:hover{
-    background:#2B3139;
+    background:#392b35;
 }
 
 .dark-mode--theme .theme--text{
-    color:rgb(234, 236, 239);
+    color:rgb(234, 239, 236);
 }
 
 .dark-mode--theme .theme--text-light{
-    color:#B7BDC6;
+    color:#b7c6c0;
 }
 
 .dark-mode--theme .navigation__main--item span{
